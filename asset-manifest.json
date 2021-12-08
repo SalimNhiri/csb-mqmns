@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://salimnhiri.github.io/csb-mqmns/static/css/main.8667beb3.chunk.css",
+    "main.js": "https://salimnhiri.github.io/csb-mqmns/static/js/main.5032b698.chunk.js",
+    "main.js.map": "https://salimnhiri.github.io/csb-mqmns/static/js/main.5032b698.chunk.js.map",
+    "runtime-main.js": "https://salimnhiri.github.io/csb-mqmns/static/js/runtime-main.fade773c.js",
+    "runtime-main.js.map": "https://salimnhiri.github.io/csb-mqmns/static/js/runtime-main.fade773c.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://salimnhiri.github.io/csb-mqmns/static/css/2.cbedb215.chunk.css",
+    "static/js/2.9f4b84ed.chunk.js": "https://salimnhiri.github.io/csb-mqmns/static/js/2.9f4b84ed.chunk.js",
+    "static/js/2.9f4b84ed.chunk.js.map": "https://salimnhiri.github.io/csb-mqmns/static/js/2.9f4b84ed.chunk.js.map",
+    "index.html": "https://salimnhiri.github.io/csb-mqmns/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://salimnhiri.github.io/csb-mqmns/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.8667beb3.chunk.css.map": "https://salimnhiri.github.io/csb-mqmns/static/css/main.8667beb3.chunk.css.map",
+    "static/js/2.9f4b84ed.chunk.js.LICENSE.txt": "https://salimnhiri.github.io/csb-mqmns/static/js/2.9f4b84ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fade773c.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.9f4b84ed.chunk.js",
+    "static/css/main.8667beb3.chunk.css",
+    "static/js/main.5032b698.chunk.js"
+  ]
+}
